@@ -13,7 +13,7 @@
   - Schottky Diodes (2x)
   - Resistor (1x 10K)
   - Capacitors (1x 100-500uF, 2x 10uF)
-  - Inductor
+  - 4.7uH Inductor
   - 5V Wall Supply
 
 **References:**
