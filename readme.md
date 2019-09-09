@@ -1,7 +1,7 @@
 # Coin cell battery backup
 
 
-**Description:** 5V barrel jack/wall powered circuit with fail over to 3v coin cell backup battery if wall power is disconnected.
+**Description:** 5V barrel jack/wall powered circuit with fail over to coin cell backup battery if wall power is disconnected.
 
 ![schematic](https://i.imgur.com/oz5umUz.png)
 
