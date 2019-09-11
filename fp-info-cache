@@ -1,4 +1,4 @@
-16704320666582840
+16712162174158896
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -5915,19 +5915,54 @@ C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
 2
 2
 coin_cell
-SC-70-5
+Barrel_Jack_Small_Hole_Type_5.5mmODx2.1mmID_PJ-102A
 
 
+0
+3
+3
+coin_cell
+Capacitor_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+coin_cell
+Diode_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+coin_cell
+Resistor_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+coin_cell
+S8211R
+
+
+0
+3
+2
+coin_cell
+SOT-353_SC-70-5_Handsoldering
+SOT-353, SC-70-5, Handsoldering
+SOT-353 SC-70-5 Handsoldering
 0
 5
 5
 coin_cell
-SOT-23-5_HandSoldering
-5-pin SOT23 package
-SOT-23-5 hand-soldering
+SOT-363_SC-70-6_Handsoldering
+SOT-363, SC-70-6, Handsoldering
+SOT-363 SC-70-6 Handsoldering
 0
-5
-5
+6
+6
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
