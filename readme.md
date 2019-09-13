@@ -5,7 +5,7 @@
 
 ![schematic](https://i.imgur.com/DLeTdPK.png)
 
-![3d](https://i.imgur.com/vAePCvC.png)
+![3d](https://i.imgur.com/aWpW4zu.png)
 
 **Part List:**
   - TPS61222 (5v Boost/Regulator IC)
