@@ -3,7 +3,9 @@
 
 **Description:** 5V barrel jack/wall powered circuit with fail over to coin cell backup battery if wall power is disconnected.
 
-![schematic](https://i.imgur.com/oz5umUz.png)
+![schematic](https://i.imgur.com/DLeTdPK.png)
+
+![3d](https://i.imgur.com/vAePCvC.png)
 
 **Part List:**
   - TPS61222 (5v Boost/Regulator IC)
